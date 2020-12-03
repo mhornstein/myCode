@@ -1,2 +1,2 @@
 This is my new file
-I added a new line
+I changed this line
